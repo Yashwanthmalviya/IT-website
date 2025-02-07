@@ -2,7 +2,7 @@
   "name": "my-it-website",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://yashwanthmalviya.github.io/IT-website",
+  "homepage": "https://yashwanthmalviya.github.io/IT-website/my-it-website/",
   "type": "module",
   "scripts": {
     "dev": "vite",
